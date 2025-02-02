@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Allow: /
+Sitemap: https://parasfzi.github.io/Uplift-Digital/sitemap.xml
